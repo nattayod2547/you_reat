@@ -17,7 +17,7 @@ const Home = () => {
           </div>
 
           
-          <div className='h-[900] hidden md:grid ml-2 w-full'>
+          <div className='h-[900] animate-pulse hidden md:grid ml-2 w-full'>
           <img className='h-[900px]' src="https://placehold.co/192x900" alt="" />
           
           </div>

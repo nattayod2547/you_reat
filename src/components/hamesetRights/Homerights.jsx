@@ -20,11 +20,11 @@ const Homerights = () => {
                     <div className='w-full grid justify-center mt-4 '>
                         <div className='text-center md:w-[400px] h-[500px]  w-[350px] items-center grid justify-center rounded-[50px] bg-slate-100 opacity-85'>
                             <h1 className='md:px-16  px-11'>
-                            <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-400 opacity-75"></span>
-                                <span   span class=" relative inline-flex rounded-full h-3 w-3 bg-sky-500">
-                                    <div className='grid justify-center w-full animate-bounce text-cyan-50'><BiDownArrowAlt /></div>
-                                    </span>
+                            <span class="relative flex h-5 w-5">
+                                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-600 opacity-75"></span>
+                                    <span   span class=" relative inline-flex rounded-full h-5 w-5 bg-sky-500 ">
+                                        <div className='grid justify-center items-center w-full animate-bounce text-cyan-50'><BiDownArrowAlt className='w-5 h-5' /></div>
+                                </span>
                             </span>
                             Hello! I’m Nattayod Lamsan, and I’m currently diving into the world of web development. I’m learning React, TailwindCSS, and Node.js to build dynamic and visually appealing web applications. My journey into tech started with a background in automotive engineering, having graduated with a Vocational Certificate in Automotive Technology from Techno Lopburi. My passion for technology and problem-solving drives me to continuously learn and improve my skills. I’m excited about the opportunities ahead and am eager to apply my knowledge in creating innovative solutions.
                                 </h1>
